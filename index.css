@@ -153,6 +153,12 @@ body{
     height: 100px;
 }
 
+
+.quick{
+    font-style: italic;
+    color: hsl(256, 67%, 59%);
+}
+
 .card8{
     width: 375px;
     background-color: hsl(39, 100%, 71%);
@@ -263,3 +269,4 @@ body{
         margin-top: -200px;
     }
 }
+
